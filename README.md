@@ -2,6 +2,8 @@
 
 Coordinate layer: public-safe manifest schemas, handoff templates, path-policy examples, and boundary scanners. This is not the private SHawn-sync repo.
 
+**License:** Apache-2.0
+
 ## SHawn OSS stack role
 
 ```text
